@@ -1,0 +1,10 @@
+Jeremy Shaughnessy
+Blog Post 01
+January 28, 2021
+                                  My thoughts on 'Innovation Insight for Microservices' by Gartner
+	
+  Before reading this article and taking this class, I have never heard of a microservice before in my life. After reading the article, I believe I now have a relatively decent understanding of what a microservice is. In my understanding a microservice is essentially a loosely couple architecture that enables development teams to be more independent within their applications. Being more independent allows the development team to deploy new features without needing to redeploy entire applications so it is less time consuming to improve already existing applications.
+  
+  MSA has many different pros and cons. With this Architecture you are able to work on each aspect individually in order to optimize the application as a whole. MSA is agile, as in, the developers can put out new features as fast as they want. The cons of the MSA are not to be overlooked as it can have quite a disruptive impact such as the cost being expensive and it being complex and it seems as though many companies who try to implement this have trouble and do not get the results they hoped for. As it states in the article many companies claim they are implementing MSA are actually using a combination miniservices and macroservices that do not perform as well as the traditional Microservice Architecture.
+	
+  I also think that it is very interesting that it seems as though only the top dogs in the digital marketplace have adopted MSA such as Google, Uber, and Amazon. I assume that it is mainly because it is a complex architecture and that many companies do not have the resources in order to be able to support MSA since it costs a lot. I wonder how long it will take for MSA to become the new norm for the majority of companies.
