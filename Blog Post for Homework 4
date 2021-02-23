@@ -5,14 +5,14 @@ Homework 04
 
 Advantages of Virtual Machines:
 There are many advantages of virtual machines such as:
- The ability to be made and be deleted quickly
-They allow you to run different operating systems that your main OS wouldn’t normally be capable of
-They are easy to maintain since they aren’t physical objects.
+-The ability to be made and be deleted quickly
+-They allow you to run different operating systems that your main OS wouldn’t normally be capable of
+-They are easy to maintain since they aren’t physical objects.
 
 Advantages of Containers:
-They are less wasteful as they only consume resources when they need to
-The applications contained in the containers can be accessed easily on different operating systems
-They are lightweight as they do not require an entire OS to function
+-They are less wasteful as they only consume resources when they need to
+-The applications contained in the containers can be accessed easily on different operating systems
+-They are lightweight as they do not require an entire OS to function
 
 Physical Machines over Virtual Machines:
 While physical machines have downfalls such as requiring maintenance, they have plenty of benefits for certain types of businesses. 
