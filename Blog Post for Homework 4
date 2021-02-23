@@ -1,1 +1,29 @@
+Jeremy Shaughnessy
+Microservice Architecture
+February 18, 2021
+Homework 04
+
+Advantages of Virtual Machines:
+There are many advantages of virtual machines such as:
+ The ability to be made and be deleted quickly
+They allow you to run different operating systems that your main OS wouldn’t normally be capable of
+They are easy to maintain since they aren’t physical objects.
+
+Advantages of Containers:
+They are less wasteful as they only consume resources when they need to
+The applications contained in the containers can be accessed easily on different operating systems
+They are lightweight as they do not require an entire OS to function
+
+Physical Machines over Virtual Machines:
+While physical machines have downfalls such as requiring maintenance, they have plenty of benefits for certain types of businesses. 
+Physical machines are more powerful than virtual machines so for a company that has a lot of data, it would be better 
+to have a physical machine rather than a virtual machine. Also since they are stored on-site, this allows for businesses 
+to have direct access to the machines in order to make immediate changes.
+
+How the cloud would aid microservices: 
+In my understanding, it allows for the developers to easily update and further develop their program while also 
+allowing for others to do so at the same time. I like to think of it as like a google document 
+for a class project. It allows for each of the members of the group to be able to edit and download the document 
+all at the same time even with others working on it. Even without being on the same internet, you can be all over the 
+world and still access and edit the document with your peers.
 
